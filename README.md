@@ -33,8 +33,8 @@ I build end-to-end data platforms and integration solutions — from ingestion a
 
 ## Contact
 
-- LinkedIn: (add link)
-- Email: (optional)
+- LinkedIn: https://www.linkedin.com/in/wmnascimento
+- Email: w4shington.mn@gmail.com
 
 ---
 
