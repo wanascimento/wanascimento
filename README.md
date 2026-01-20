@@ -1,7 +1,6 @@
 # Washington Nascimento
 
-**Data Integration | Data Quality | Data Governance | Lakehouse | Analytics (Qlik + Talend)**  
-Grupo IN / Now Vertical
+**Data Integration | Data Quality | Data Governance | Lakehouse | Analytics | Data Engineering**  
 
 I build end-to-end data platforms and integration solutions — from ingestion and quality rules to governed analytics experiences.
 
