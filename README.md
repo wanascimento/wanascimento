@@ -1,61 +1,70 @@
-# Washington Nascimento
+Data Engineering • Data Analytics
+Data Integration • Data Quality • Data Governance • Lakehouse • Qlik + Talend
 
-**Data Integration | Data Quality | Data Governance | Lakehouse | Analytics | Data Engineering**  
+I build end-to-end data solutions with one non-negotiable principle:
 
-I build end-to-end data platforms and integration solutions — from ingestion and quality rules to governed analytics experiences.
+data must be trusted to be useful
+🚀 Start here
+What	Link	Why it matters
+Portfolio Hub (Index)	https://github.com/wanascimento/data-portfolio
+	Fastest way to navigate my work (DE + DA)
+Qlik + Talend demos	https://github.com/wanascimento/qliktalend_demos
+	Practical demos: pipelines → quality gates → governed outputs
+Qlik toolkit	https://github.com/wanascimento/qlik
+	Analytics assets, references, and security patterns
 
-- 🔭 Focus: **Data Integration**, **Data Quality**, **Governance**, **Lakehouse patterns**, **Analytics enablement**
-- 🧰 Stack: Qlik Sense, Qlik Talend (Studio/Cloud), SQL, APIs, Cloud DW/Lakehouse patterns
-- 🎯 Interests: Public sector data challenges, link analysis, lineage & trust, scalable delivery
+Recommended pins: data-portfolio + qliktalend_demos + qlik + your next anchor repo (below).
 
----
+🧱 Data Engineering
 
-## Featured work (high-signal repos)
+What I ship
 
-> I’m actively curating this portfolio. The goal: **realistic demos, reproducible setup, clear tradeoffs.**
+Integration patterns (APIs, orchestration, incremental loads)
 
-- **Portfolio Hub (Index):** `data-portfolio` (coming)  
-- **Qlik artifacts:** `qlik`  
-- **Qlik + Talend demos:** `qliktalend_demos`  
-- **Qlik + Talend projects (placeholder):** `qliktalendprojects`
+Reliability by default (idempotency, retries, error handling)
 
----
+Data Quality gates (profiling, rules, exceptions, monitoring)
 
-## What you’ll find here
+Governance-by-design (security mindset, lineage-ready structures)
 
-- ✅ **Hands-on demos** with synthetic / anonymized data
-- ✅ **Architecture notes** (why this design, what I’d change in production)
-- ✅ **Operational concerns** (retries, idempotency, data quality gates, observability)
-- ✅ **Governance mindset** (catalog, lineage, security rules, access patterns)
+Lakehouse patterns (bronze/silver/gold)
 
----
+📊 Data Analytics
 
-## Contact
+What I ship
 
-- LinkedIn: https://www.linkedin.com/in/wmnascimento
-- Email: w4shington.mn@gmail.com
+Qlik semantic/KPI layers and reusable modeling patterns
 
----
+Security rules (row-level access patterns)
 
-<details>
-<summary><strong>🇧🇷 Versão em Português</strong></summary>
+Storytelling apps for decision-makers
 
-# Washington Nascimento
+🔥 Now building (anchor repos)
 
-**Integração de Dados | Qualidade de Dados | Governança | Lakehouse | Analytics (Qlik + Talend)**  
-Grupo IN / Now Vertical
+These are the next “high-signal” repos designed as 1 demo = 1 repo (architecture + setup + results):
 
-Eu construo soluções ponta a ponta — da ingestão e qualidade até consumo analítico com governança.
+de-link-analysis-demo — entity resolution + relationship graph (public-sector style)
 
-- 🔭 Foco: **Integração**, **Qualidade**, **Governança**, **Arquiteturas Lakehouse**, **Camada Analítica**
-- 🧰 Stack: Qlik Sense, Qlik Talend (Studio/Cloud), SQL, APIs, padrões de Cloud DW/Lakehouse
-- 🎯 Interesse: desafios do setor público, análise de vínculos, lineage & confiança, entrega escalável
+de-data-quality-gates — profiling, rule severity, exceptions, reporting
 
-## Trabalhos em destaque
+de-lakehouse-medallion — bronze/silver/gold + incremental loads
 
-- **Portfolio Hub (Índice):** `data-portfolio` (em construção)  
-- **Artefatos Qlik:** `qlik`  
-- **Demos Qlik + Talend:** `qliktalend_demos`  
-- **Projetos Qlik + Talend (placeholder):** `qliktalendprojects`
+✅ What you’ll find in mature repos
 
-</details>
+Context (problem + constraints)
+
+Architecture (diagram + key decisions)
+
+Data (synthetic dataset + dictionary)
+
+Run it (reproducible setup, local and/or docker)
+
+Results (screenshots/outputs + takeaways)
+
+Trade-offs (limitations + what I’d change in production)
+
+Contact
+
+LinkedIn: (add link)
+
+::contentReference[oaicite:0]{index=0}
