@@ -1,10 +1,5 @@
 # Washington Nascimento
 
-[![Portfolio Hub](https://img.shields.io/badge/Portfolio-data--portfolio-000000?style=for-the-badge)](https://github.com/wanascimento/data-portfolio)
-[![Data Engineering](https://img.shields.io/badge/Focus-Data%20Engineering-000000?style=for-the-badge)](#-data-engineering)
-[![Data Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-000000?style=for-the-badge)](#-data-analytics)
-[![Qlik + Talend](https://img.shields.io/badge/Stack-Qlik%20%2B%20Talend-000000?style=for-the-badge)](#)
-
 **Data Engineering • Data Analytics**  
 **Data Integration • Data Quality • Data Governance • Lakehouse • Qlik + Talend**
 
@@ -15,13 +10,19 @@ I build end-to-end data solutions with one non-negotiable principle:
 
 ## 🚀 Start here
 
-| What | Link | Why it matters |
-|---|---|---|
-| **Portfolio Hub (Index)** | https://github.com/wanascimento/data-portfolio | Fastest way to navigate my work (DE + DA) |
-| **Qlik + Talend demos** | https://github.com/wanascimento/qliktalend_demos | Practical demos: pipelines → quality gates → governed outputs |
-| **Qlik toolkit** | https://github.com/wanascimento/qlik | Analytics assets, references, and security patterns |
+<p>
+  <a href="https://github.com/wanascimento/data-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio%20Hub-Start%20here-000000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/wanascimento/qliktalend_demos">
+    <img src="https://img.shields.io/badge/Qlik%20%2B%20Talend-Demos-000000?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/wanascimento/qlik">
+    <img src="https://img.shields.io/badge/Qlik-Toolkit-000000?style=for-the-badge" />
+  </a>
+</p>
 
-> **Recommended pins:** `data-portfolio` + `qliktalend_demos` + `qlik` + your next **anchor repo** (below).
+**Recommended pins:** `data-portfolio` + `qliktalend_demos` + `qlik` + your next **anchor repo**.
 
 ---
 
@@ -44,21 +45,21 @@ I build end-to-end data solutions with one non-negotiable principle:
 ---
 
 ## 🔥 Now building (anchor repos)
-These are the next “high-signal” repos designed as **1 demo = 1 repo** (architecture + setup + results):
+High-signal repos designed as **1 demo = 1 repo** (architecture + setup + results):
 
-- **`de-link-analysis-demo`** — entity resolution + relationship graph (public-sector style)
-- **`de-data-quality-gates`** — profiling, rule severity, exceptions, reporting
-- **`de-lakehouse-medallion`** — bronze/silver/gold + incremental loads
+- `de-link-analysis-demo` — entity resolution + relationship graph (public-sector style)
+- `de-data-quality-gates` — profiling, rule severity, exceptions, reporting
+- `de-lakehouse-medallion` — bronze/silver/gold + incremental loads
 
 ---
 
 ## ✅ What you’ll find in mature repos
-- **Context** (problem + constraints)
-- **Architecture** (diagram + key decisions)
-- **Data** (synthetic dataset + dictionary)
-- **Run it** (reproducible setup, local and/or docker)
-- **Results** (screenshots/outputs + takeaways)
-- **Trade-offs** (limitations + what I’d change in production)
+- Context (problem + constraints)
+- Architecture (diagram + key decisions)
+- Data (synthetic dataset + dictionary)
+- Run it (reproducible setup, local and/or docker)
+- Results (screenshots/outputs + takeaways)
+- Trade-offs (limitations + what I’d change in production)
 
 ---
 
