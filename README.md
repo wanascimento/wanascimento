@@ -22,7 +22,7 @@ I build end-to-end data solutions with one non-negotiable principle:
   </a>
 </p>
 
-**Recommended pins:** `data-portfolio` + `qliktalend_demos` + `qlik` + your next **anchor repo**.
+**Pinned:** `data-portfolio` • `qliktalend_demos` • `qlik` • *(anchor repo in progress)*
 
 ---
 
