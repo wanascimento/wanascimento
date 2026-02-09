@@ -76,4 +76,4 @@ High-signal repos designed as **1 demo = 1 repo** (architecture + setup + result
 - Email: w4shington.mn@gmail.com
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=wanascimento&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wanascimento&theme=dark&hide_border=true" />
