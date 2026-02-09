@@ -75,5 +75,3 @@ High-signal repos designed as **1 demo = 1 repo** (architecture + setup + result
 - LinkedIn: https://www.linkedin.com/in/wmnascimento
 - Email: w4shington.mn@gmail.com
 ---
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wanascimento&theme=dark&hide_border=true" />
