@@ -5,7 +5,15 @@
 
 I build end-to-end data solutions with one non-negotiable principle:  
 ## **data must be trusted to be useful**
+## 🛠️ Tech Stack
 
+**Platforms & Tools**
+![Qlik](https://img.shields.io/badge/-Qlik-009848?style=flat&logo=qlik&logoColor=white)
+![Talend](https://img.shields.io/badge/-Talend-FF6D70?style=flat&logo=talend&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Focus Areas:** Data Integration • Data Quality • Data Governance • Lakehouse Architecture
 ---
 
 ## 🚀 Start here
